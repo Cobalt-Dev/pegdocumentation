@@ -11,8 +11,16 @@
 * [Payments](PAYMENTS.md)
 * [Atlas User Guide](atlas-user-guide/README.md)
   * [Customer Service Module](atlas-user-guide/customer-service-module.md)
+    * How-To Videos
+    * General Usage
+    * Activations
+    * Technical Support
+    * Payment Support
+    * Operations Support
+    * Agent Care
+    * Reporting
   * Inventory Module
-  * Issue Reporting
+* Atlas Issue Reporting
 * SMS Messages
 
 
