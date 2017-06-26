@@ -10,6 +10,7 @@
 * [Payments](PAYMENTS.md)
 * [Atlas User Guide](atlas-user-guide/README.md)
   * [Customer Service Module](atlas-user-guide/customer-service-module.md)
+  * Inventory Module
 
 
 
