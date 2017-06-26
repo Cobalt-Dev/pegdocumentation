@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Frequently Asked Questions
 * [Key Changes](keychanges/README.md)
   * [Payments & Tokens](keychanges/payments-and-tokens.md)
   * [Sales](keychanges/sales.md)
