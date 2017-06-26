@@ -10,9 +10,9 @@
 * [Sales Process](testpage.md)
 * [Payments](PAYMENTS.md)
 * [Atlas User Guide](atlas-user-guide/README.md)
-  * [Customer Service Module](atlas-user-guide/customer-service-module.md)
+  * Overview
+* * [Customer Service Module](atlas-user-guide/customer-service-module.md)
     * How-To Videos
-    * General Usage
     * Activations
     * Technical Support
     * Payment Support
@@ -21,6 +21,8 @@
     * Reporting
   * Inventory Module
 * [SMS Messages](sms-messages.md)
-* [Atlas Issue Reporting](atlas-issue-reporting.md)
+* [Report an Issue or Bug](atlas-issue-reporting.md)
 * Feedback & Suggestions
+
+
 
