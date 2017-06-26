@@ -20,8 +20,9 @@
     * Agent Care
     * Reporting
   * Inventory Module
-* Atlas Issue Reporting
 * SMS Messages
+* Atlas Issue Reporting
+* Feedback & Suggestions
 
 
 
