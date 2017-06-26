@@ -10,23 +10,17 @@
 * [Sales Process](testpage.md)
 * [Payments](PAYMENTS.md)
 * [Atlas User Guide](atlas-user-guide/README.md)
-  * Overview
-  * [Customer Service Module](https://github.com/Cobalt-Dev/pegdocumentation/blob/8c57a06592b847ff10bafe3bde49f1f5d5f9ddc5/atlas-user-guide/customer-service-module.md)
-    * How-To Videos
+  * [Overview](atlas-user-guide/overview.md)
+  * [Customer Service Module](atlas-user-guide/customer-service-module.md)
+    * [How-To Videos](atlas-user-guide/how-to-videos.md)
     * Activations
     * Technical Support
     * Payment Support
     * Operations Support
     * Agent Care
     * Reporting
-  * Inventory Module
+  * [Inventory Module](atlas-user-guide/inventory-module.md)
 * [SMS Messages](sms-messages.md)
 * [Report an Issue or Bug](atlas-issue-reporting.md)
 * Feedback & Suggestions
-
-
-
-
-
-
 
