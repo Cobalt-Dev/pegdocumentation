@@ -10,7 +10,7 @@
 
 > D-light has 3 bulbs, easier payment method and more durable.
 
-
+#### 
 
 #### Can I swap my Mkopa system for D.Light?
 
