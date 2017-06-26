@@ -5,7 +5,7 @@
 * [Key Changes](keychanges/README.md)
   * [Payments & Tokens](keychanges/payments-and-tokens.md)
   * [Sales](keychanges/sales.md)
+  * [Screening & Registration](keychanges/gitbook.md)
   * [Customer Care](keychanges/writing.md)
-  * [Screening](keychanges/gitbook.md)
 * [Payments](PAYMENTS.md)
 
